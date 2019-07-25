@@ -3,4 +3,5 @@ dependencies:
   - conda:
     - numpy
     - matplotlib
-    - pytorch torchvision cudatoolkit=10.0 -c pytorch
+    - pytorch
+    - torchvision
